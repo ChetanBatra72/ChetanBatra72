@@ -57,8 +57,8 @@ I'm a final-year Electronics and Communication Engineering student at DTU, India
     <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   </a>
 </p>
-### About Me
 
+## About Me
 - 🌱 I'm always eager to learn and expand my skillset.
 - 👯 I'm open to collaborations and contributions to exciting projects.
 - 🏏 I love playing cricket 🎶 and listening to music in my free time.
@@ -75,6 +75,11 @@ You can find me on various coding platforms:
 
 - ***Profile Views***: ![Profile Views](https://komarev.com/ghpvc/?username=ChetanBatra72)
 - ***GitHub Streak***: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChetanBatra72)
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanBatra72&layout=compact&langs_count=5&custom_title=Most%20Used%20Languages&hide_border=true&bg_color=ffffff00)
+
+
 
 ### Pinned Repositories
 
