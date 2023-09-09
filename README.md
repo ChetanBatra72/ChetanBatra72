@@ -48,7 +48,7 @@ I'm a final-year Electrical and Communication Engineering student at DTU, India,
 
 You can find me on various coding platforms:
 
-- [LeetCode]([https://leetcode.com/YourLeetCodeProfile](https://leetcode.com/Chetan_Batra2001/)
+- [LeetCode](https://leetcode.com/Chetan_Batra2001/)
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/chetanbat2001/practice)
 - [CodeChef](https://www.codechef.com/users/chetanbat2001)
 
@@ -61,14 +61,15 @@ You can find me on various coding platforms:
 
 Here are some of my featured projects:
 
-1. [ExerConnect]([Link-to-Project-1](https://github.com/ChetanBatra72/Easy_Fitness))
+1. [ExerConnect](https://github.com/ChetanBatra72/Easy_Fitness)
 2. [Stump-Talks](https://github.com/ChetanBatra72/Chat_Appication)
 3. [Sorting Visulaizer](https://github.com/ChetanBatra72/Sorting_Vis)
 
-### GitHub Contributions Graph
+### GitHub Contributions
 
-![GitHub Contributions Graph](https://activity-graph.herokuapp.com/graph?username=ChetanBatra72)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ChetanBatra72)
 
-Feel free to reach out for a chat, collaboration, or if you just want to geek out about code! You can connect with me on [LinkedIn](https://www.linkedin.com/in/chetan-batra-17b8731b7/) or drop me an email at [YourEmail@gmail.com](mailto:chetanbat2001@gmail.com).
+
+Feel free to reach out for a chat, collaboration, or if you just want to geek out about code! You can connect with me on [LinkedIn](https://www.linkedin.com/in/chetan-batra-17b8731b7/) or drop me an email at [Gmail](mailto:chetanbat2001@gmail.com).
 
 Happy coding! 🚀
