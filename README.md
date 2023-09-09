@@ -1,9 +1,9 @@
 <!-- Header -->
 <p align="center">
-  <a href="https://github.com/YourGitHubUsername">
-    <img src="https://img.shields.io/github/followers/YourGitHubUsername?style=social" alt="GitHub followers">
+  <a href="https://github.com/ChetanBatra72">
+    <img src="https://img.shields.io/github/followers/ChetanBatra72?style=social" alt="GitHub followers">
   </a>
-  <a href="https://www.linkedin.com/in/YourLinkedInProfile">
+  <a href="https://www.linkedin.com/in/chetan-batra-17b8731b7/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:chetanbat2001@gmail.com">
