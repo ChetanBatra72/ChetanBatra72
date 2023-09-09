@@ -6,7 +6,10 @@
   <a href="https://www.linkedin.com/in/chetan-batra-17b8731b7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
   <a href="mailto:chetanbat2001l@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red" alt="Email"></a>
 </p>
-
+<!-- Image of You Coding -->
+<p align="center">
+  <img src="https://example.com/path-to-your-image.jpg" alt="Coding on Laptop" width="400">
+</p>
 # Hi there, I'm Chetan Batra! 👋
 
 I'm a final-year Electronics and Communication Engineering student at DTU, India, with a passion for coding and developing things. I specialize in C++ and consider myself a full-stack developer with knowledge in a variety of technologies:
